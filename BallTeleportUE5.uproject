@@ -13,6 +13,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
